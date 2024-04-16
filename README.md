@@ -1,4 +1,4 @@
-# C++版 OpenCV教程
+# OpenCV教程
 
 ### 安装
 - [docker配置ubuntu](https://blog.csdn.net/weixin_51133173/article/details/137800197)
@@ -24,3 +24,6 @@
 - [矩阵](https://blog.csdn.net/weixin_51133173/article/details/137823764)
 - [图像(3维数组)](https://blog.csdn.net/weixin_51133173/article/details/137824304)
 
+---
+
+# 轻量图像库-stb

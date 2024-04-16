@@ -1,4 +1,4 @@
-# OpenCV教程
+## OpenCV教程
 
 ### 安装
 - [docker配置ubuntu](https://blog.csdn.net/weixin_51133173/article/details/137800197)
@@ -26,4 +26,4 @@
 
 ---
 
-# 轻量图像库-stb
+## 轻量图像库-stb

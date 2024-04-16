@@ -1,4 +1,4 @@
-## OpenCV教程
+## OpenCV
 
 ### 安装
 - [docker配置ubuntu](https://blog.csdn.net/weixin_51133173/article/details/137800197)

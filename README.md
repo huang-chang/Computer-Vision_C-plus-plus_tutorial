@@ -27,3 +27,12 @@
 ---
 
 ## 轻量图像库-stb
+- [malloc申请内存](https://blog.csdn.net/weixin_51133173/article/details/137954476)
+- [stb介绍](https://blog.csdn.net/weixin_51133173/article/details/137955245)
+- [操作jpg图片](https://blog.csdn.net/weixin_51133173/article/details/137955624)
+- [操作png图片](https://blog.csdn.net/weixin_51133173/article/details/137957913)
+- [放缩图片](https://blog.csdn.net/weixin_51133173/article/details/137958853)
+- [抠图](https://blog.csdn.net/weixin_51133173/article/details/137959173)
+- [写/读-rgb](https://blog.csdn.net/weixin_51133173/article/details/137959492)
+- [yuv图像格式介绍](https://blog.csdn.net/weixin_51133173/article/details/137959675)
+- [ffmpeg/ffplay查看yuv图片](https://blog.csdn.net/weixin_51133173/article/details/137960071)

@@ -36,3 +36,12 @@
 - [写/读-rgb](https://blog.csdn.net/weixin_51133173/article/details/137959492)
 - [yuv图像格式介绍](https://blog.csdn.net/weixin_51133173/article/details/137959675)
 - [ffmpeg/ffplay查看yuv图片](https://blog.csdn.net/weixin_51133173/article/details/137960071)
+- [读yuv (nv12)图片](https://blog.csdn.net/weixin_51133173/article/details/137961118)
+- [uv(nv12)恢复](https://blog.csdn.net/weixin_51133173/article/details/137981875)
+- [yuv转rgb](https://blog.csdn.net/weixin_51133173/article/details/137981978)
+- [rgb转yuv](https://blog.csdn.net/weixin_51133173/article/details/137982129)
+- [图像归一化](https://blog.csdn.net/weixin_51133173/article/details/137982310)
+- [图像减均值](https://blog.csdn.net/weixin_51133173/article/details/137982348)
+- [图像除标准差](https://blog.csdn.net/weixin_51133173/article/details/137982368)
+
+
